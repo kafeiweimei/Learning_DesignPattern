@@ -6,11 +6,11 @@ namespace SingletonPattern
     {
         static void Main(string[] args)
         {
-            ReadAppConfig();
-            ReadAppConfig_HungrySingleton();
-            ReadAppConfig_IdlerSingleton();
-            ThreadSafe_IdlerSingletonTest();
-            ThreadSafe2_IdlerSingletonTest();
+            //ReadAppConfig();
+            //ReadAppConfig_HungrySingleton();
+            //ReadAppConfig_IdlerSingleton();
+            //ThreadSafe_IdlerSingletonTest();
+            //ThreadSafe2_IdlerSingletonTest();
             ThreadSafe_MutiIdlerSingletonTest();
 
             Console.ReadLine();

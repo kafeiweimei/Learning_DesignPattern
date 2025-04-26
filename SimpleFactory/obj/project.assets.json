@@ -1,34 +1,51 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Learning_DesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Learning_DesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Learning_DesignPattern.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Learning_DesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../Learning_DesignPattern/Learning_DesignPattern.csproj",
+      "msbuildProject": "../Learning_DesignPattern/Learning_DesignPattern.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Learning_DesignPattern >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\CoffeeMilk\\.nuget\\packages\\": {},
+    "C:\\Users\\Coffe\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\AllDevelopProjects\\AllGithubProjects\\Learning_DesignPattern\\SimpleFactory\\SimpleFactory.csproj",
+      "projectUniqueName": "D:\\AllProject\\GitHubProjects\\Learning_DesignPattern\\SimpleFactory\\SimpleFactory.csproj",
       "projectName": "SimpleFactory",
-      "projectPath": "F:\\AllDevelopProjects\\AllGithubProjects\\Learning_DesignPattern\\SimpleFactory\\SimpleFactory.csproj",
-      "packagesPath": "C:\\Users\\CoffeeMilk\\.nuget\\packages\\",
-      "outputPath": "F:\\AllDevelopProjects\\AllGithubProjects\\Learning_DesignPattern\\SimpleFactory\\obj\\",
+      "projectPath": "D:\\AllProject\\GitHubProjects\\Learning_DesignPattern\\SimpleFactory\\SimpleFactory.csproj",
+      "packagesPath": "C:\\Users\\Coffe\\.nuget\\packages\\",
+      "outputPath": "D:\\AllProject\\GitHubProjects\\Learning_DesignPattern\\SimpleFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\CoffeeMilk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Coffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
@@ -46,14 +63,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\AllProject\\GitHubProjects\\Learning_DesignPattern\\Learning_DesignPattern\\Learning_DesignPattern.csproj": {
+              "projectPath": "D:\\AllProject\\GitHubProjects\\Learning_DesignPattern\\Learning_DesignPattern\\Learning_DesignPattern.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -74,7 +101,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

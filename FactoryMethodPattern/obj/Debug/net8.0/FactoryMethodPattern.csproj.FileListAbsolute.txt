@@ -1,0 +1,14 @@
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.exe
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.deps.json
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.runtimeconfig.json
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.dll
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.pdb
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.AssemblyInfo.cs
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.dll
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\obj\Debug\net8.0\refint\FactoryMethodPattern.dll
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.pdb
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.genruntimeconfig.cache
+D:\AllProject\Develop\Learning_DesignPattern\FactoryMethodPattern\obj\Debug\net8.0\ref\FactoryMethodPattern.dll

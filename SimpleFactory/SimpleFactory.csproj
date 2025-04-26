@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Learning_DesignPattern\Learning_DesignPattern.csproj" />
+  </ItemGroup>
+
 </Project>

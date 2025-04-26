@@ -1,0 +1,14 @@
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\bin\Debug\net8.0\Learning_DesignPattern.exe
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\bin\Debug\net8.0\Learning_DesignPattern.deps.json
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\bin\Debug\net8.0\Learning_DesignPattern.runtimeconfig.json
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\bin\Debug\net8.0\Learning_DesignPattern.dll
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\bin\Debug\net8.0\Learning_DesignPattern.pdb
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\obj\Debug\net8.0\Learning_DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\obj\Debug\net8.0\Learning_DesignPattern.AssemblyInfoInputs.cache
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\obj\Debug\net8.0\Learning_DesignPattern.AssemblyInfo.cs
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\obj\Debug\net8.0\Learning_DesignPattern.csproj.CoreCompileInputs.cache
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\obj\Debug\net8.0\Learning_DesignPattern.dll
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\obj\Debug\net8.0\refint\Learning_DesignPattern.dll
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\obj\Debug\net8.0\Learning_DesignPattern.pdb
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\obj\Debug\net8.0\Learning_DesignPattern.genruntimeconfig.cache
+F:\AllDevelopProjects\AllC#Projects\TestProjects\Learning_DesignPattern\Learning_DesignPattern\obj\Debug\net8.0\ref\Learning_DesignPattern.dll
