@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\AllProject\\GitHubProjects\\Learning_DesignPattern\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{78EBA239-6894-4ABE-825F-5430341D6705}|SingletonPattern\\SingletonPattern.csproj|d:\\allproject\\githubprojects\\learning_designpattern\\singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78EBA239-6894-4ABE-825F-5430341D6705}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{643647B2-FAC5-42F7-9B45-978DD1C0A678}|AdapterPattern\\AdapterPattern.csproj|d:\\allproject\\githubprojects\\learning_designpattern\\adapterpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643647B2-FAC5-42F7-9B45-978DD1C0A678}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,36 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AllProject\\GitHubProjects\\Learning_DesignPattern\\SingletonPattern\\Program.cs",
-              "RelativeDocumentMoniker": "SingletonPattern\\Program.cs",
-              "ToolTip": "D:\\AllProject\\GitHubProjects\\Learning_DesignPattern\\SingletonPattern\\Program.cs",
-              "RelativeToolTip": "SingletonPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T14:11:54.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AllProject\\GitHubProjects\\Learning_DesignPattern\\AdapterPattern\\Program.cs",
-              "RelativeDocumentMoniker": "AdapterPattern\\Program.cs",
-              "ToolTip": "D:\\AllProject\\GitHubProjects\\Learning_DesignPattern\\AdapterPattern\\Program.cs",
-              "RelativeToolTip": "AdapterPattern\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T14:11:54.761Z"
             }
           ]
         }
