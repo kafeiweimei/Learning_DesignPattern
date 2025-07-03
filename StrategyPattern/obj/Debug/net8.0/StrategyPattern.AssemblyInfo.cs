@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TemplateMethodPattern")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("StrategyPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+026962644662ff5e554e4b506d5352c5fb5ceb5e")]
-[assembly: System.Reflection.AssemblyProductAttribute("TemplateMethodPattern")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TemplateMethodPattern")]
+[assembly: System.Reflection.AssemblyProductAttribute("StrategyPattern")]
+[assembly: System.Reflection.AssemblyTitleAttribute("StrategyPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
