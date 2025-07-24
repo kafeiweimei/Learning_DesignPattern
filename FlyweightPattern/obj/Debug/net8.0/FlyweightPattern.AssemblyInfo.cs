@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MemoPattern")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FlyweightPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0038315e27e111aedfe3c4e42e99d69067373cc5")]
-[assembly: System.Reflection.AssemblyProductAttribute("MemoPattern")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MemoPattern")]
+[assembly: System.Reflection.AssemblyProductAttribute("FlyweightPattern")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FlyweightPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
