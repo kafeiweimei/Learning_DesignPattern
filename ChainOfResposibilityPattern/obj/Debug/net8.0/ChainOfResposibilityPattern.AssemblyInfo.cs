@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DecoratorPattern")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ChainOfResposibilityPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b21fc6cb3827bbfd34b31722887a2dac66eb5659")]
-[assembly: System.Reflection.AssemblyProductAttribute("DecoratorPattern")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DecoratorPattern")]
+[assembly: System.Reflection.AssemblyProductAttribute("ChainOfResposibilityPattern")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ChainOfResposibilityPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
