@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BridgePattern.NoPattern
+{
+    /// <summary>
+    /// 站内消息的方式发送普通消息
+    /// </summary>
+    internal class CommonMsgSMS : IMessage
+    {
+        public void Send(string message, string toUser)
+        {
+            Console.WriteLine($"现在使用【站内消息方式】发送消息【{message}】给【{toUser}】");
+        }
+    }//Class_end
+}
