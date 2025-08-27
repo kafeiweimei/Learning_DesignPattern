@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "Decorat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResposibilityPattern", "ChainOfResposibilityPattern\ChainOfResposibilityPattern.csproj", "{161B9B8F-B385-48BA-8010-29417D75D8C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{B279AE2B-8AB6-44D1-AF68-0535FD016475}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{B279AE2B-8AB6-44D1-AF68-0535FD016475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{3D63A8E8-F973-445D-8F03-4CF4FBB8BF81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{B279AE2B-8AB6-44D1-AF68-0535FD016475}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B279AE2B-8AB6-44D1-AF68-0535FD016475}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B279AE2B-8AB6-44D1-AF68-0535FD016475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D63A8E8-F973-445D-8F03-4CF4FBB8BF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D63A8E8-F973-445D-8F03-4CF4FBB8BF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D63A8E8-F973-445D-8F03-4CF4FBB8BF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D63A8E8-F973-445D-8F03-4CF4FBB8BF81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

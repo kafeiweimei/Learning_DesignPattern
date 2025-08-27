@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BridgePattern")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("VisitorPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c56d62e13a2aa33586c0623c9fe72ffaa2918e2")]
-[assembly: System.Reflection.AssemblyProductAttribute("BridgePattern")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BridgePattern")]
+[assembly: System.Reflection.AssemblyProductAttribute("VisitorPattern")]
+[assembly: System.Reflection.AssemblyTitleAttribute("VisitorPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
